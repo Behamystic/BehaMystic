@@ -1,55 +1,42 @@
-### 🎩 Welcome to BehaMystic's GitHub! 🚀
+<h1 align="center">Hi there, I'm Imamov Behruz 👋</h1>
 
-```diff
-+ Coding Beyond Limits!
-```
-
----
-
-## 🧑‍💻 About Me
-👋 Hi, I'm **Imamov Behruz** (aka **BehaMystic**), a passionate developer who loves to push the boundaries of technology! I'm 17 years old and was born on **September 22, 2007**. 
-
-💡 **Interests:**
-- 💻 **Programming** – I love building efficient and scalable applications.
-- 🎮 **Esports** – Competitive gaming is my thing!
-- 🎵 **Music** – Music keeps me inspired while coding.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=500&height=50&lines=Welcome+to+my+GitHub!;I'm+a+17-year-old+coder!;Always+learning+new+things!;Open-source+enthusiast!;Follow+me+for+cool+projects!">
+</p>
 
 ---
 
-## 🔧 Tech Stack & Skills
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 About Me:
+- 🧑‍💻 Passionate about coding and open-source.
+- 🎯 Always learning new technologies.
+- 🌍 Exploring the world of programming.
+- 💡 Interested in Web Development & AI.
+- 🎮 Love esports and music!
 
 ---
 
-## 🚀 My Projects
-### 🔹 Laravel CRUD System
-A complete Laravel-based CRUD system with authentication and a clean UI. 
-[🔗 View Repository](#)
+### 🛠 Tech Stack:
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🔹 PHP MVC Blog
-A lightweight blog built with pure PHP using the MVC pattern.
-[🔗 View Repository](#)
-
-### 🔹 Esports Tournament Manager
-An esports management platform for organizing and tracking tournaments.
-[🔗 View Repository](#)
 
 ---
 
-## 📊 GitHub Stats
-![BehaMystic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BehaMystic&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BehaMystic&show_icons=true&theme=radical&count_private=true">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BehaMystic&theme=radical">
+</p>
 
 ---
 
-## 📫 Connect With Me
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bekhruz_devolper) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BehaMystic) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phpdevolper.dev@gmail.com)
+### 🤝 Connect with me:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bekhruz_devolper)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BehaMystic)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phpdevolper.dev@gmail.com)
 
----
+🔥 **Keep Coding and Stay Awesome!** 🚀
 
-⭐ **Feel free to explore my repositories and contribute to open-source projects!** ⭐
 
