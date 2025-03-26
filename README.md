@@ -22,7 +22,10 @@
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=BehaMystic&label=Profile+Views&color=blue&style=flat)
+<p align="center">
+  <img src="https://count.getloli.com/get/@BehaMystic?theme=moebooru" alt="Profile Views" />
+</p>
+
 
 ---
 
