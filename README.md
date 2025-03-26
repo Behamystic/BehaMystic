@@ -23,8 +23,9 @@
 
 ---
 <p align="center">
-  <img src="https://count.getloli.com/get/@BehaMystic?theme=moebooru" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@BehaMystic?theme=rule34" alt="Profile Views" />
 </p>
+
 
 
 ---
