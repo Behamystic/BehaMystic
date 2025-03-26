@@ -13,7 +13,7 @@
 - 🛡️ Exploring the world of programming.
 - 🌟 Interested in **Web Development & AI**.
 - 🎶 Love **Esports, Music & Anime!**
-- 🎉 My all-time favorite anime: **Naruto, One Piece & Attack on Titan!**
+- 🎉 My all-time favorite anime: **Naruto,Sword art online & Attack on Titan!**
 
 ---
 
