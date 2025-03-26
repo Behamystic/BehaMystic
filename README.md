@@ -23,7 +23,7 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=BehaMystic&label=Profile+Views&color=blue&style=flat)
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BehaMystic&title=Profile+Visits)
+
 ---
 
 ### 📊 GitHub Stats:
