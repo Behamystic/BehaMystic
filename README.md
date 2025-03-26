@@ -18,7 +18,8 @@
 ### 🛠 Tech Stack:
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Mysql](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql
+-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ---
