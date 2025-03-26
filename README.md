@@ -24,10 +24,10 @@
 
 ---
 <p align="center">
-  <img src="https://count.getloli.com/get/@BehaMystic?theme=rule34" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@BehaMystic?theme=moebooru" alt="Profile Views" />
+  <br>
+  <img src="https://i.gifer.com/origin/9a/9aa1c6d9164c103ff488d5ea390e60f0_w200.gif" alt="Naruto Running" width="200"/>
 </p>
-
-
 
 ---
 
